@@ -117,4 +117,3 @@ def game_hash
 }
   }  
   
-puts game_hash
